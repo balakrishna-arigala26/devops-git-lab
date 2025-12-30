@@ -1,2 +1,2 @@
-print(Hello from DevOps CI/CD pipeline)
-print(Starting application...)
+print("Loading configuration...")
+print("Allication started successfully")
