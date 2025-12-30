@@ -1,1 +1,1 @@
-print("Hello from DevOps app")
+print(Hello from DevOps CI/CD pipeline)
