@@ -6,3 +6,8 @@ This repository is used to master Git concepts including:
 - Rebase
 - Pull Request workflows
 - CI/CD-oriented workflows
+
+## Practice Update
+
+This section was added to practice the GitHub Pull Reuest workflow using a feature branch.
+
