@@ -4,5 +4,4 @@ print("Application started successfully")
 print("Feature A running")
 print("Feature B running")
 
-print(BROKEN CODE)
-print(Application running correctly)
+print("Application running correctly")
