@@ -14,3 +14,13 @@ This section was added to practice the GitHub Pull Reuest workflow using a featu
 ## Day 1 Practice
 
 Practicing GitHub Pull Request workflow.
+
+## CI + PR Practice
+
+Practicing Pull Request workflow with CI/CD integration.
+
+## Another PR Practice
+
+This change is added to create a new pull request.
+
+
