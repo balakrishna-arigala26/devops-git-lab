@@ -23,4 +23,6 @@ Practicing Pull Request workflow with CI/CD integration.
 
 This change is added to create a new pull request.
 
+## Combined PR + CI Practice
 
+This change is created to practice PR workflow together with CI/CD.
