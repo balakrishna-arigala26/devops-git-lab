@@ -17,4 +17,4 @@ jobs:
       - name: Run simple check
         run: |
           echo "CI pipeline triggered"
-          ls -R    
+          ls -R
